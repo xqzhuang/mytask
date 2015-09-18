@@ -1,0 +1,21 @@
+
+.center{
+	text-align: center;
+}
+
+.login{
+	margin-top: 10%;
+	width: 30%;
+	background-color: #FBF5FC;
+	border: 1px solid #E3E2E1;
+	box-shadow: 1px 1px 1px #888888;
+	padding: 15px;
+}
+
+.error{
+	color: red;
+}
+
+.result{
+	color: gray;
+}
